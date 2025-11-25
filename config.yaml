@@ -1,0 +1,17 @@
+secret_key: ENC[AES256_GCM,data:b44tjIRS2K4K/zNEVNbOSMx+EW69,iv:4eRx5ueZqRGXsVCgwGVw1yPoUFD8k4idnuAc3g+9eRo=,tag:WTua33cwIfWB5RoeHiFBhA==,type:str]
+db_password: ENC[AES256_GCM,data:005+mrhWskbf1eVhZTovVnE=,iv:nk9S1K9+2uLS3/Qp/tVETiUgPYpSuM2anFONHwm6YJA=,tag:LzAFdTtH1IjUVDGkPc9AlA==,type:str]
+sops:
+    age:
+        - recipient: age16kgcwjxpjxj5c8cq95q629g4d6s6z5tgd8feehaguhgnf6hrcyps037d8s
+          enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA5WEtYWSszMHpOdHRQSzdr
+            ZDlabzZ1NUtzNjR5T0JmdEJMTDZPdjBHM0FNClNwWWRlK0pBOHpxblIwZnBSNy9m
+            NW1SbWdxMmhlQmhxVUNwSlEyVFZwU00KLS0tIHA1SU00eFdVNjg4ZGhjOHZtTjIv
+            VXhRSW1FckFOQ2tSOXladVY4OW0xa0EKUCInO0CJy7L2BSnuIPgcg2CFTy+YfrdY
+            liHejtFlBtU94DWo14gJtNVUl2T/zDKiMJy9T7KChpSGEafBf8abeg==
+            -----END AGE ENCRYPTED FILE-----
+    lastmodified: "2025-11-25T13:18:11Z"
+    mac: ENC[AES256_GCM,data:YYTivWBJEoxRzgu9nkI9Y22Foo1Sd3sQ6eMy4c6TaYKJtSt9c185Q562lAj67U+NEd6++he9dsqjJeUBJVzRilI5SSDd4kWSvN9QfFeWWv/uI5+zQM9snCM2Ga52OYf+MdWjgKpj3L6hgzkye6Ats2m2QTvcwVuo7xzf/nYkaqA=,iv:/3zWceSK1uQt/tmDSdh5zgmMLv1Sxnv9pz3m2LNaJOg=,tag:gqfa8oza2CDVIDsXgyYOMA==,type:str]
+    unencrypted_suffix: _unencrypted
+    version: 3.11.0
